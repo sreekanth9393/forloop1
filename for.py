@@ -6,4 +6,5 @@ for i in range(1,x):
         print(m,end='')
     for k in range(2,i+1):
         print(k,end='')
-    print()    
+    print()
+print("end")
